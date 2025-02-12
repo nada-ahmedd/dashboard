@@ -30,7 +30,7 @@ function ProductDetails() {
             <strong>Category:</strong> {product.category}
           </Card.Text>
           <Card.Text>
-            <strong>Rating:</strong> {product.rating.rate} ⭐
+            <strong>Rating:</strong> {product.rating.rate} 
           </Card.Text>
           <Card.Text>
             <strong>Description:</strong> {product.description}
